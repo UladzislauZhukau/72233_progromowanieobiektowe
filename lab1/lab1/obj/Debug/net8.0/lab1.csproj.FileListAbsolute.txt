@@ -1,0 +1,5 @@
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\lab1\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\lab1\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\lab1\lab1\obj\Debug\net8.0\lab1.sourcelink.json
