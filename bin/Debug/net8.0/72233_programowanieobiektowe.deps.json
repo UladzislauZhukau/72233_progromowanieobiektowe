@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "72233_programowanieobiektowe/1.0.0": {
+        "runtime": {
+          "72233_programowanieobiektowe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "72233_programowanieobiektowe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

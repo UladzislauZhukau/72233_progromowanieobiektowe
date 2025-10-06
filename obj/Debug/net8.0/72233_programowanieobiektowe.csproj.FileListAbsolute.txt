@@ -1,0 +1,14 @@
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\bin\Debug\net8.0\72233_programowanieobiektowe.exe
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\bin\Debug\net8.0\72233_programowanieobiektowe.deps.json
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\bin\Debug\net8.0\72233_programowanieobiektowe.runtimeconfig.json
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\bin\Debug\net8.0\72233_programowanieobiektowe.dll
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\bin\Debug\net8.0\72233_programowanieobiektowe.pdb
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\obj\Debug\net8.0\72233_programowanieobiektowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\obj\Debug\net8.0\72233_programowanieobiektowe.AssemblyInfoInputs.cache
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\obj\Debug\net8.0\72233_programowanieobiektowe.AssemblyInfo.cs
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\obj\Debug\net8.0\72233_programowanieobiektowe.csproj.CoreCompileInputs.cache
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\obj\Debug\net8.0\72233_programowanieobiektowe.dll
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\obj\Debug\net8.0\refint\72233_programowanieobiektowe.dll
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\obj\Debug\net8.0\72233_programowanieobiektowe.pdb
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\obj\Debug\net8.0\72233_programowanieobiektowe.genruntimeconfig.cache
+C:\Users\72233\source\repos\72233_programowanieobiektowe\72233_programowanieobiektowe\obj\Debug\net8.0\ref\72233_programowanieobiektowe.dll
