@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\72233\\source\\repos\\72233_programowanieobiektowe\\72233_programowanieobiektowe\\lab1\\",
+  "WorkspaceRootPath": "C:\\Users\\72233\\source\\repos\\72233_progromowanieobiektowe\\lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\72233\\source\\repos\\72233_programowanieobiektowe\\72233_programowanieobiektowe\\lab1\\lab1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB7EA489-D77D-45BB-8493-0EABD6273120}|lab1\\lab1.csproj|c:\\users\\72233\\source\\repos\\72233_progromowanieobiektowe\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7EA489-D77D-45BB-8493-0EABD6273120}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\72233\\source\\repos\\72233_programowanieobiektowe\\72233_programowanieobiektowe\\lab1\\lab1\\lab1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab1\\lab1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{DB7EA489-D77D-45BB-8493-0EABD6273120}|lab1\\lab1.csproj|c:\\users\\72233\\source\\repos\\72233_progromowanieobiektowe\\lab1\\lab1\\lab1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DB7EA489-D77D-45BB-8493-0EABD6273120}|lab1\\lab1.csproj|solutionrelative:lab1\\lab1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,10 +27,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "lab1.csproj",
-              "DocumentMoniker": "C:\\Users\\72233\\source\\repos\\72233_programowanieobiektowe\\72233_programowanieobiektowe\\lab1\\lab1\\lab1.csproj",
+              "Title": "lab1",
+              "DocumentMoniker": "C:\\Users\\72233\\Source\\Repos\\72233_progromowanieobiektowe\\lab1\\lab1\\lab1.csproj",
               "RelativeDocumentMoniker": "lab1\\lab1.csproj",
-              "ToolTip": "C:\\Users\\72233\\source\\repos\\72233_programowanieobiektowe\\72233_programowanieobiektowe\\lab1\\lab1\\lab1.csproj",
+              "ToolTip": "C:\\Users\\72233\\Source\\Repos\\72233_progromowanieobiektowe\\lab1\\lab1\\lab1.csproj",
               "RelativeToolTip": "lab1\\lab1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-10-06T11:39:19.009Z"
@@ -39,9 +39,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\72233\\source\\repos\\72233_programowanieobiektowe\\72233_programowanieobiektowe\\lab1\\lab1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\72233\\source\\repos\\72233_progromowanieobiektowe\\lab1\\lab1\\Program.cs",
               "RelativeDocumentMoniker": "lab1\\Program.cs",
-              "ToolTip": "C:\\Users\\72233\\source\\repos\\72233_programowanieobiektowe\\72233_programowanieobiektowe\\lab1\\lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\72233\\source\\repos\\72233_progromowanieobiektowe\\lab1\\lab1\\Program.cs",
               "RelativeToolTip": "lab1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
