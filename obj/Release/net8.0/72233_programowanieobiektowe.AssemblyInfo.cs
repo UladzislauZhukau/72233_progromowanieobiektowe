@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("72233_programowanieobiektowe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce4325c11749790b0ef0b87741227db56014feaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("72233_programowanieobiektowe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("72233_programowanieobiektowe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
