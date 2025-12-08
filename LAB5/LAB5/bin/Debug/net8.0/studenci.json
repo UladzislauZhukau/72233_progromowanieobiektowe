@@ -1,0 +1,29 @@
+[
+  {
+    "Imie": "Jan",
+    "Nazwisko": "Kowalski",
+    "Oceny": [
+      5,
+      4,
+      3
+    ]
+  },
+  {
+    "Imie": "Anna",
+    "Nazwisko": "Nowak",
+    "Oceny": [
+      4,
+      5,
+      5
+    ]
+  },
+  {
+    "Imie": "Piotr",
+    "Nazwisko": "Zieli\u0144ski",
+    "Oceny": [
+      3,
+      3,
+      4
+    ]
+  }
+]
