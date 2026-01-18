@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\gitrepos\\Projekt_PO_Uladzislau_Zhukau_72233_SklepMagazynowy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA288243-46B0-411C-A89D-D2E134C6ADBC}|Projekt_PO_Uladzislau_Zhukau_72233_SklepMagazynowy\\Projekt_PO_Uladzislau_Zhukau_72233_SklepMagazynowy.csproj|e:\\gitrepos\\projekt_po_uladzislau_zhukau_72233_sklepmagazynowy\\projekt_po_uladzislau_zhukau_72233_sklepmagazynowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA288243-46B0-411C-A89D-D2E134C6ADBC}|Projekt_PO_Uladzislau_Zhukau_72233_SklepMagazynowy\\Projekt_PO_Uladzislau_Zhukau_72233_SklepMagazynowy.csproj|solutionrelative:projekt_po_uladzislau_zhukau_72233_sklepmagazynowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\gitrepos\\Projekt_PO_Uladzislau_Zhukau_72233_SklepMagazynowy\\Projekt_PO_Uladzislau_Zhukau_72233_SklepMagazynowy\\Program.cs",
+              "RelativeDocumentMoniker": "Projekt_PO_Uladzislau_Zhukau_72233_SklepMagazynowy\\Program.cs",
+              "ToolTip": "E:\\gitrepos\\Projekt_PO_Uladzislau_Zhukau_72233_SklepMagazynowy\\Projekt_PO_Uladzislau_Zhukau_72233_SklepMagazynowy\\Program.cs",
+              "RelativeToolTip": "Projekt_PO_Uladzislau_Zhukau_72233_SklepMagazynowy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:41:33.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

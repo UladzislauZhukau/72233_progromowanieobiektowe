@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "Nazwa": "ProduktA",
+    "Kategoria": "A",
+    "Ilosc": 65,
+    "Cena": 3.12
+  }
+]
