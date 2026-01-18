@@ -1,0 +1,7 @@
+E:\gitrepos\Lab1versia2\Lab1versia2\bin\Debug\Lab1versia2.exe.config
+E:\gitrepos\Lab1versia2\Lab1versia2\bin\Debug\Lab1versia2.exe
+E:\gitrepos\Lab1versia2\Lab1versia2\bin\Debug\Lab1versia2.pdb
+E:\gitrepos\Lab1versia2\Lab1versia2\obj\Debug\Lab1versia2.csproj.AssemblyReference.cache
+E:\gitrepos\Lab1versia2\Lab1versia2\obj\Debug\Lab1versia2.csproj.CoreCompileInputs.cache
+E:\gitrepos\Lab1versia2\Lab1versia2\obj\Debug\Lab1versia2.exe
+E:\gitrepos\Lab1versia2\Lab1versia2\obj\Debug\Lab1versia2.pdb
